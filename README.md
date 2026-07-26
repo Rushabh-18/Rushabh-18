@@ -1,5 +1,7 @@
 # 💫 About Me:
- AIML and full stack developer
+
+I'm Rushabh Lingraj Jorigal
+AIML and full stack developer
 
 
 ## 🌐 Socials:
